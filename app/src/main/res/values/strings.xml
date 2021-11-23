@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nov18Evi8</string>
+    <string name="edt_1">Ingrese un numero entero</string>
+    <string name="edt_2">Ingrese un texto</string>
+    <string name="edt_3">Ingrese un numero decimal</string>
+    <string name="borrar">Borrar</string>
+    <string name="guardar">Guardar</string>
+    <string name="tx_1">Valor entero almacenado</string>
+    <string name="tv_2">Texto almacenado</string>
+    <string name="tv_3">Valor decimal almacenado</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
